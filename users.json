@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "email": "user@example.com",
+    "password": "password123",
+    "name": "Test User"
+  },
+  {
+    "id": 2,
+    "email": "admin@example.com",
+    "password": "admin123",
+    "name": "Admin User"
+  },
+  {
+    "id": 1770908401591,
+    "username": "suhatabassum0786@gmail.com",
+    "password": "suha7868",
+    "createdAt": "2026-02-12T15:00:01.591Z"
+  },
+  {
+    "id": 1770908425947,
+    "username": "meghana123@gmail.com",
+    "password": "meghana123",
+    "createdAt": "2026-02-12T15:00:25.947Z"
+  },
+  {
+    "id": 1770908446054,
+    "username": "sindhu123@gmail.com",
+    "password": "sindhu123",
+    "createdAt": "2026-02-12T15:00:46.054Z"
+  },
+  {
+    "id": 1770909627902,
+    "email": "suhatabassum0786@gmail.com",
+    "password": "$2b$10$206He1TlVd65Z32q2xzGuuNZ6bUZyin.KExQeDr6VG29ErxFnFVcW",
+    "createdAt": "2026-02-12T15:20:27.902Z"
+  },
+  {
+    "id": 1770909703674,
+    "email": "s123@gmail.com",
+    "password": "$2b$10$C.DNYZOJM98mXANZoGonRu.ACivcH1PIXKKkwgqGGJoyT8Di4vHU6",
+    "createdAt": "2026-02-12T15:21:43.674Z"
+  },
+  {
+    "id": 1770913865430,
+    "email": "sindhu123@gmail.com",
+    "password": "$2b$10$YFZhoV1s892AVqJ6l23j1urqaxmicX/ky9s6CptpuZAPduNN6/DuG",
+    "createdAt": "2026-02-12T16:31:05.430Z"
+  },
+  {
+    "id": 1770913889695,
+    "email": "soumya123@gmail.com",
+    "password": "$2b$10$p7lB41JGbUlDvtYqe/ijoe5GpKMGZBHX.lHhuYR/GVnQcVOBD.oVC",
+    "createdAt": "2026-02-12T16:31:29.695Z"
+  },
+  {
+    "id": 1770913916047,
+    "email": "suha",
+    "password": "$2b$10$Dm0q9qNJJ7jEDTmIGgoc/OrQfDy01V.XpBnMvJUan75PF4hykUHxG",
+    "createdAt": "2026-02-12T16:31:56.047Z"
+  },
+  {
+    "id": 1770931578017,
+    "email": "s@gmail.com",
+    "password": "$2b$10$pbgBwGSeaKDLLQYjYq.Q7.btfmoE1C/1xhqDsNTkXOUR7nugtPhkK",
+    "createdAt": "2026-02-12T21:26:18.017Z"
+  },
+  {
+    "id": 1770932406567,
+    "email": "suha@gmail.com",
+    "password": "$2b$10$0cG52aEJLse/ZpE/yGJ0S.Lcw7uRcclAB9A8wz4Y8yD5Pg1KhNPOO",
+    "createdAt": "2026-02-12T21:40:06.567Z"
+  },
+  {
+    "id": 1770932475795,
+    "email": "k@gmail.com",
+    "password": "$2b$10$AvanE3YB8TfAqIGAhGD9LuBNuNZxrA6eBqbIaA4zkV.i8YA.Ez1zW",
+    "createdAt": "2026-02-12T21:41:15.795Z"
+  },
+  {
+    "id": 1770933127255,
+    "email": "g@gmail.com",
+    "password": "$2b$10$1AwJbtk12RULyeq6ZEMgKu5pHpIS7oNnV49KLTqG7N2ycvClEEZt.",
+    "createdAt": "2026-02-12T21:52:07.255Z"
+  },
+  {
+    "id": 1770934479454,
+    "email": "h@gmail.com",
+    "password": "$2b$10$QnyUdWSqN.UNzK9xJXHbbe6HcVvIggNwSaFYxOryrtTY2XSfrivsS",
+    "createdAt": "2026-02-12T22:14:39.454Z"
+  }
+]
