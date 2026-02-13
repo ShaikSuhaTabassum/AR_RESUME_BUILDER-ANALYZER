@@ -13,7 +13,7 @@ const USERS_FILE = path.join(__dirname, "..", "users.json");
 const LOGIN_LOGS_FILE = path.join(__dirname, "..", "login_logs.json");
 const RESUME_FILE = path.join(__dirname, "..", "resumes.json");
 
-const JWT_SECRET = "super_secret_key_change_this";
+const JWT_SECRET = process.env.JWT_SECRET;
 
 // ================= INITIAL FILE CREATION =================
 
