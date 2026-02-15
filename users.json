@@ -88,5 +88,23 @@
     "email": "h@gmail.com",
     "password": "$2b$10$QnyUdWSqN.UNzK9xJXHbbe6HcVvIggNwSaFYxOryrtTY2XSfrivsS",
     "createdAt": "2026-02-12T22:14:39.454Z"
+  },
+  {
+    "id": 1770942936492,
+    "email": "test@test.com",
+    "password": "$2b$10$8EjeK5Mfp8aX6cukYuGPS.q2el3CyyGHU6H.6rChzkrJC60HQsnk2",
+    "createdAt": "2026-02-13T00:35:36.492Z"
+  },
+  {
+    "id": 1771130877096,
+    "email": "user7868@gmail.com",
+    "password": "$2b$10$zWv6xp3U3cjWWT98GCCAWe39qc3k5BOdthYBmkTf1VVMS3MJH.Lw2",
+    "createdAt": "2026-02-15T04:47:57.096Z"
+  },
+  {
+    "id": 1771131057786,
+    "email": "jumbosuha@gmail.com",
+    "password": "$2b$10$AkyFCBUK/qMzJOaSRmIRs.ilTaYtictuk75GtqBQaMzgJov3KPSDK",
+    "createdAt": "2026-02-15T04:50:57.786Z"
   }
 ]
